@@ -1,0 +1,2 @@
+# fastapi-playground
+fastapi investigation
